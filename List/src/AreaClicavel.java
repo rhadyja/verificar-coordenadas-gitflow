@@ -71,4 +71,8 @@ public class AreaClicavel {
         }
         return "n achei";
     }
+
+    public String getHotFix(){
+        return "hotfix";
+    }
 }
